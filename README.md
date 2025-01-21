@@ -5,6 +5,9 @@
 تعديل المهمة: يتيح للمستخدم تعديل عنوان المهمة أو تاريخ إضافتها.
 حذف المهمة: يمكن حذف المهام مع تأكيد الحذف باستخدام نافذة تنبيه.
 تمييز المهمة كمكتملة: يمكن للمستخدم تحديد المهمة كمكتملة أو غير مكتملة باستخدام أيقونة تغيير الحالة.
+<br>
+<br>
+<br>
 Project Description in English:
 This project is a To-Do List application that allows users to add, edit, delete, or mark daily tasks as complete. The tasks are stored in Local Storage to ensure data persistence between sessions. The application features a simple user interface built with Bootstrap and uses Font Awesome icons. Users can interact with the tasks to mark them as completed or not.
 
